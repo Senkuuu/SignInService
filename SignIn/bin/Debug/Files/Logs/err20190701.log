@@ -1,0 +1,52 @@
+2019-07-01 15:10:58,754 [7] ERROR Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Could not schedule jobs and triggers from file ~/Config/quartz_jobs.xml: Could not load type 'Usung.Jobs.TimingJob,Usung.Service'
+System.TypeLoadException: Could not load type 'Usung.Jobs.TimingJob,Usung.Service'
+   在 Quartz.Simpl.SimpleTypeLoadHelper.LoadType(String name) 位置 C:\projects\quartznet\src\Quartz\Simpl\SimpleTypeLoadHelper.cs:行号 58
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessInternal(String xml) 位置 C:\projects\quartznet\src\Quartz\Xml\XMLSchedulingDataProcessor.cs:行号 355
+   在 Quartz.Xml.XMLSchedulingDataProcessor.<ProcessFile>d__36.MoveNext() 位置 C:\projects\quartznet\src\Quartz\Xml\XMLSchedulingDataProcessor.cs:行号 179
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.<ProcessFileAndScheduleJobs>d__51.MoveNext() 位置 C:\projects\quartznet\src\Quartz\Xml\XMLSchedulingDataProcessor.cs:行号 677
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin.<ProcessFile>d__45.MoveNext() 位置 C:\projects\quartznet\src\Quartz.Plugins\Plugin\Xml\XMLSchedulingDataProcessorPlugin.cs:行号 290
+2019-07-01 15:11:55,714 [4] ERROR Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Could not schedule jobs and triggers from file ~/Config/quartz_jobs.xml: Could not load type 'Usung.Jobs.TimingJob,Usung.Service'
+System.TypeLoadException: Could not load type 'Usung.Jobs.TimingJob,Usung.Service'
+   在 Quartz.Simpl.SimpleTypeLoadHelper.LoadType(String name) 位置 C:\projects\quartznet\src\Quartz\Simpl\SimpleTypeLoadHelper.cs:行号 58
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessInternal(String xml) 位置 C:\projects\quartznet\src\Quartz\Xml\XMLSchedulingDataProcessor.cs:行号 355
+   在 Quartz.Xml.XMLSchedulingDataProcessor.<ProcessFile>d__36.MoveNext() 位置 C:\projects\quartznet\src\Quartz\Xml\XMLSchedulingDataProcessor.cs:行号 179
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.<ProcessFileAndScheduleJobs>d__51.MoveNext() 位置 C:\projects\quartznet\src\Quartz\Xml\XMLSchedulingDataProcessor.cs:行号 677
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin.<ProcessFile>d__45.MoveNext() 位置 C:\projects\quartznet\src\Quartz.Plugins\Plugin\Xml\XMLSchedulingDataProcessorPlugin.cs:行号 290
+2019-07-01 15:13:41,802 [6] ERROR Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Could not schedule jobs and triggers from file ~/Config/quartz_jobs.xml: Could not load type 'Usung.Jobs.TimingJob,Usung.Service'
+System.TypeLoadException: Could not load type 'Usung.Jobs.TimingJob,Usung.Service'
+   在 Quartz.Simpl.SimpleTypeLoadHelper.LoadType(String name) 位置 C:\projects\quartznet\src\Quartz\Simpl\SimpleTypeLoadHelper.cs:行号 58
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessInternal(String xml) 位置 C:\projects\quartznet\src\Quartz\Xml\XMLSchedulingDataProcessor.cs:行号 355
+   在 Quartz.Xml.XMLSchedulingDataProcessor.<ProcessFile>d__36.MoveNext() 位置 C:\projects\quartznet\src\Quartz\Xml\XMLSchedulingDataProcessor.cs:行号 179
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.<ProcessFileAndScheduleJobs>d__51.MoveNext() 位置 C:\projects\quartznet\src\Quartz\Xml\XMLSchedulingDataProcessor.cs:行号 677
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin.<ProcessFile>d__45.MoveNext() 位置 C:\projects\quartznet\src\Quartz.Plugins\Plugin\Xml\XMLSchedulingDataProcessorPlugin.cs:行号 290
+2019-07-01 15:16:28,883 [6] ERROR Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Could not schedule jobs and triggers from file ~/Config/quartz_jobs.xml: Could not load type 'SignIn.TimingJob,SigIn'
+System.TypeLoadException: Could not load type 'SignIn.TimingJob,SigIn'
+   在 Quartz.Simpl.SimpleTypeLoadHelper.LoadType(String name) 位置 C:\projects\quartznet\src\Quartz\Simpl\SimpleTypeLoadHelper.cs:行号 58
+   在 Quartz.Xml.XMLSchedulingDataProcessor.ProcessInternal(String xml) 位置 C:\projects\quartznet\src\Quartz\Xml\XMLSchedulingDataProcessor.cs:行号 355
+   在 Quartz.Xml.XMLSchedulingDataProcessor.<ProcessFile>d__36.MoveNext() 位置 C:\projects\quartznet\src\Quartz\Xml\XMLSchedulingDataProcessor.cs:行号 179
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Quartz.Xml.XMLSchedulingDataProcessor.<ProcessFileAndScheduleJobs>d__51.MoveNext() 位置 C:\projects\quartznet\src\Quartz\Xml\XMLSchedulingDataProcessor.cs:行号 677
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin.<ProcessFile>d__45.MoveNext() 位置 C:\projects\quartznet\src\Quartz.Plugins\Plugin\Xml\XMLSchedulingDataProcessorPlugin.cs:行号 290

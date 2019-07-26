@@ -1,0 +1,255 @@
+2019-07-01 14:16:22,392 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 14:16:22,449 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:16:40,492 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - Shutting down threadpool...
+2019-07-01 14:16:40,492 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - Shutdown of threadpool complete.
+2019-07-01 14:16:53,596 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 14:16:53,697 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:17:08,755 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - Shutting down threadpool...
+2019-07-01 14:17:08,755 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - Shutdown of threadpool complete.
+2019-07-01 14:28:12,665 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 14:28:12,713 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:29:50,252 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 14:29:50,300 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:30:11,072 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 14:30:11,152 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:30:36,290 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:31:00,964 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 14:31:01,026 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:31:14,837 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - Shutting down threadpool...
+2019-07-01 14:31:14,837 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - Shutdown of threadpool complete.
+2019-07-01 14:31:38,997 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 14:31:39,134 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:32:08,599 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:32:33,609 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:32:57,191 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 14:32:57,386 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:33:22,569 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:33:35,261 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 14:33:35,419 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:37:17,772 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 14:37:17,867 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:37:47,921 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 14:37:52,636 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:38:11,651 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 14:38:11,695 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:38:39,325 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:41:42,522 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 14:41:42,556 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:45:12,059 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 14:45:12,105 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:48:13,647 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 14:48:13,699 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:48:41,563 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:49:05,685 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:49:34,450 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:49:59,187 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:50:27,272 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:50:56,668 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 14:57:41,459 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2019-07-01 14:57:41,474 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2019-07-01 15:10:58,240 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 15:10:58,737 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2019-07-01 15:10:58,737 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2019-07-01 15:10:58,737 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2019-07-01 15:10:58,737 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2019-07-01 15:10:58,738 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2019-07-01 15:10:58,738 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2019-07-01 15:10:58,738 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2019-07-01 15:10:58,738 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2019-07-01 15:10:58,925 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:11:26,779 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:11:55,288 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 15:11:55,709 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2019-07-01 15:11:55,709 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2019-07-01 15:11:55,709 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2019-07-01 15:11:55,709 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2019-07-01 15:11:55,709 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2019-07-01 15:11:55,709 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2019-07-01 15:11:55,709 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2019-07-01 15:11:55,710 [4] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2019-07-01 15:11:55,745 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:12:24,077 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:12:48,767 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:13:18,255 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:13:41,491 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 15:13:41,798 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2019-07-01 15:13:41,798 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2019-07-01 15:13:41,798 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2019-07-01 15:13:41,798 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2019-07-01 15:13:41,799 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2019-07-01 15:13:41,799 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2019-07-01 15:13:41,799 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2019-07-01 15:13:41,799 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2019-07-01 15:13:41,835 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:14:05,342 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:14:29,755 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:14:53,285 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:15:17,090 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:15:41,087 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:16:06,064 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:16:28,581 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 15:16:28,880 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2019-07-01 15:16:28,880 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2019-07-01 15:16:28,880 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2019-07-01 15:16:28,880 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2019-07-01 15:16:28,880 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2019-07-01 15:16:28,880 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2019-07-01 15:16:28,880 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2019-07-01 15:16:28,880 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2019-07-01 15:16:28,919 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:16:58,279 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:17:27,128 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:17:52,563 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:18:18,685 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:18:45,210 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:19:09,892 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:19:37,355 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:20:00,373 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:20:25,743 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:20:33,536 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 15:20:33,839 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2019-07-01 15:20:33,839 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2019-07-01 15:20:33,839 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2019-07-01 15:20:33,839 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2019-07-01 15:20:33,839 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2019-07-01 15:20:33,839 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2019-07-01 15:20:33,839 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2019-07-01 15:20:33,839 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2019-07-01 15:20:33,845 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed job definition: JobDetail 'ZWPlatform.TimingJob':  jobType: 'SignIn.TimingJob persistJobDataAfterExecution: True concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False
+2019-07-01 15:20:33,845 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 trigger definitions.
+2019-07-01 15:20:33,892 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed trigger definition: Trigger 'ZWPlatform.TimingJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 
+2019-07-01 15:20:33,922 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Scheduling job: ZWPlatform.TimingJob with trigger: ZWPlatform.TimingJobTrigger
+2019-07-01 15:20:33,984 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-01 15:20:33,993 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-01 15:20:34,012 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:20:34,028 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob
+2019-07-01 15:20:37,013 [6] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-07-01 15:20:37,020 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-01 15:21:00,001 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-01 15:21:00,002 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:21:00,007 [9] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob
+2019-07-01 15:22:20,214 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 15:22:21,013 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2019-07-01 15:22:21,013 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2019-07-01 15:22:21,013 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2019-07-01 15:22:21,013 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2019-07-01 15:22:21,013 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2019-07-01 15:22:21,014 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2019-07-01 15:22:21,014 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2019-07-01 15:22:21,014 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2019-07-01 15:22:21,020 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed job definition: JobDetail 'ZWPlatform.TimingJob':  jobType: 'SignIn.TimingJob persistJobDataAfterExecution: True concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False
+2019-07-01 15:22:21,020 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 trigger definitions.
+2019-07-01 15:22:21,048 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed trigger definition: Trigger 'ZWPlatform.TimingJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 
+2019-07-01 15:22:21,089 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Scheduling job: ZWPlatform.TimingJob with trigger: ZWPlatform.TimingJobTrigger
+2019-07-01 15:22:21,138 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-01 15:22:21,148 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-01 15:22:21,159 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:22:21,174 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob
+2019-07-01 15:22:27,159 [6] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-07-01 15:22:27,164 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:22:51,599 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-01 15:23:00,001 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-01 15:23:00,002 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:23:00,010 [9] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob
+2019-07-01 15:23:00,023 [10] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-07-01 15:23:00,023 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:23:27,309 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:23:55,384 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-01 15:24:00,001 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-01 15:24:00,002 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:24:00,009 [11] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob
+2019-07-01 15:24:00,023 [11] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-07-01 15:24:00,023 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:24:26,396 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:24:53,850 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-01 15:25:00,001 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-01 15:25:00,002 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:25:00,007 [12] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob
+2019-07-01 15:25:00,023 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-07-01 15:25:00,023 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:25:24,521 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:25:48,122 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-01 15:26:00,002 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-01 15:26:00,002 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:26:00,011 [13] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob
+2019-07-01 15:26:00,024 [13] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-07-01 15:26:00,024 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:26:25,942 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:26:49,899 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-01 15:27:00,001 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-01 15:27:00,002 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:27:00,009 [14] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob
+2019-07-01 15:27:00,023 [14] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-07-01 15:27:00,023 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:27:27,777 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:27:55,342 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-01 15:28:00,002 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-01 15:28:00,002 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:28:00,066 [15] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob
+2019-07-01 15:28:00,072 [16] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-07-01 15:28:00,073 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:28:27,180 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:39:02,866 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 15:39:03,257 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2019-07-01 15:39:03,257 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2019-07-01 15:39:03,257 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2019-07-01 15:39:03,257 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2019-07-01 15:39:03,257 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2019-07-01 15:39:03,257 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2019-07-01 15:39:03,257 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2019-07-01 15:39:03,257 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2019-07-01 15:39:03,262 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed job definition: JobDetail 'ZWPlatform.TimingJob':  jobType: 'SignIn.TimingJob persistJobDataAfterExecution: True concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False
+2019-07-01 15:39:03,263 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 trigger definitions.
+2019-07-01 15:39:03,289 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed trigger definition: Trigger 'ZWPlatform.TimingJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 
+2019-07-01 15:39:03,324 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Scheduling job: ZWPlatform.TimingJob with trigger: ZWPlatform.TimingJobTrigger
+2019-07-01 15:39:03,361 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-01 15:39:03,371 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-01 15:39:03,376 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:39:03,394 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob
+2019-07-01 15:44:29,526 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:44:29,604 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-07-01 15:44:29,609 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-01 15:44:29,610 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-01 15:44:29,611 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 15:44:29,634 [10] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob
+2019-07-01 16:04:27,940 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 16:04:28,274 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2019-07-01 16:04:28,274 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2019-07-01 16:04:28,274 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2019-07-01 16:04:28,274 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2019-07-01 16:04:28,274 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2019-07-01 16:04:28,274 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2019-07-01 16:04:28,274 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2019-07-01 16:04:28,275 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2019-07-01 16:04:28,279 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed job definition: JobDetail 'ZWPlatform.TimingJob':  jobType: 'SignIn.TimingJob persistJobDataAfterExecution: True concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False
+2019-07-01 16:04:28,279 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 trigger definitions.
+2019-07-01 16:04:28,301 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed trigger definition: Trigger 'ZWPlatform.TimingJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 
+2019-07-01 16:04:28,330 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Scheduling job: ZWPlatform.TimingJob with trigger: ZWPlatform.TimingJobTrigger
+2019-07-01 16:04:28,365 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-01 16:04:28,380 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-01 16:04:28,385 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 16:04:28,404 [6] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob
+2019-07-01 16:05:01,397 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 16:05:04,231 [6] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-07-01 16:05:04,238 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-01 16:05:04,241 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-01 16:05:04,241 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 16:05:04,241 [6] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob
+2019-07-01 16:05:34,092 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 16:08:04,207 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-01 16:08:04,441 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2019-07-01 16:08:04,441 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2019-07-01 16:08:04,441 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2019-07-01 16:08:04,441 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2019-07-01 16:08:04,441 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2019-07-01 16:08:04,441 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2019-07-01 16:08:04,441 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2019-07-01 16:08:04,441 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2019-07-01 16:08:04,446 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed job definition: JobDetail 'ZWPlatform.TimingJob':  jobType: 'SignIn.TimingJob persistJobDataAfterExecution: True concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False
+2019-07-01 16:08:04,446 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 trigger definitions.
+2019-07-01 16:08:04,466 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed trigger definition: Trigger 'ZWPlatform.TimingJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 
+2019-07-01 16:08:04,497 [7] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Scheduling job: ZWPlatform.TimingJob with trigger: ZWPlatform.TimingJobTrigger
+2019-07-01 16:08:04,539 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-01 16:08:04,551 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-01 16:08:04,556 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-01 16:08:04,574 [6] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob

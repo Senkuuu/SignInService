@@ -1,0 +1,4 @@
+2019-07-02 08:59:12,528 [1] ERROR Topshelf.Hosts.ConsoleRunHost - The TimingSvr service is running and must be stopped before running via the console
+2019-07-02 08:59:19,085 [1] ERROR Topshelf.Hosts.ConsoleRunHost - The TimingSvr service is running and must be stopped before running via the console
+2019-07-02 08:59:32,439 [1] ERROR Topshelf.Hosts.ConsoleRunHost - The TimingSvr service is running and must be stopped before running via the console
+2019-07-02 08:59:38,328 [1] ERROR Topshelf.Hosts.ConsoleRunHost - The TimingSvr service is running and must be stopped before running via the console

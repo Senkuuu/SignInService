@@ -1,0 +1,50 @@
+2019-07-02 08:59:12,257 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name TimingSvr
+[Success] DisplayName Timing Service
+[Success] Description 定时任务服务
+[Success] ServiceName TimingSvr
+2019-07-02 08:59:12,274 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-07-02 08:59:18,995 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name TimingSvr
+[Success] DisplayName Timing Service
+[Success] Description 定时任务服务
+[Success] ServiceName TimingSvr
+2019-07-02 08:59:19,006 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-07-02 08:59:32,361 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name TimingSvr
+[Success] DisplayName Timing Service
+[Success] Description 定时任务服务
+[Success] ServiceName TimingSvr
+2019-07-02 08:59:32,375 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-07-02 08:59:38,262 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name TimingSvr
+[Success] DisplayName Timing Service
+[Success] Description 定时任务服务
+[Success] ServiceName TimingSvr
+2019-07-02 08:59:38,272 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-07-02 09:00:26,319 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name TimingSvr
+[Success] DisplayName Timing Service
+[Success] Description 定时任务服务
+[Success] ServiceName TimingSvr
+2019-07-02 09:00:26,329 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v4.2.0.194, .NET Framework v4.0.30319.42000
+2019-07-02 09:00:26,524 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The TimingSvr service is now running, press Control+C to exit.
+2019-07-02 09:00:26,902 [4] INFO  Quartz.Impl.StdSchedulerFactory - Quartz.NET properties loaded from configuration file 'C:\Users\zhangrui\Desktop\SignIn\SignIn\bin\Debug\quartz.config'
+2019-07-02 09:00:27,130 [4] INFO  Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-07-02 09:00:27,149 [4] INFO  Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.7.0 created.
+2019-07-02 09:00:27,152 [4] INFO  Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin - Registering Quartz Job Initialization Plug-in.
+2019-07-02 09:00:27,154 [4] INFO  Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+2019-07-02 09:00:27,157 [4] INFO  Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'QuartzTest' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-07-02 09:00:27,157 [4] INFO  Quartz.Impl.StdSchedulerFactory - Quartz scheduler 'QuartzTest' initialized
+2019-07-02 09:00:27,157 [4] INFO  Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.7.0
+2019-07-02 09:00:27,178 [4] INFO  Quartz.Xml.XMLSchedulingDataProcessor - Parsing XML file: C:\Users\zhangrui\Desktop\SignIn\SignIn\bin\Debug\Config/quartz_jobs.xml with systemId: ~/Config/quartz_jobs.xml
+2019-07-02 09:00:27,814 [6] INFO  Quartz.Xml.XMLSchedulingDataProcessor - Adding 1 jobs, 1 triggers.
+2019-07-02 09:00:27,817 [6] INFO  Quartz.Xml.XMLSchedulingDataProcessor - Adding job: ZWPlatform.TimingJob
+2019-07-02 09:00:27,839 [6] INFO  Quartz.Core.QuartzScheduler - Scheduler QuartzTest_$_NON_CLUSTERED started.

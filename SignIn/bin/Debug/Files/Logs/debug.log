@@ -1,0 +1,36 @@
+2019-07-02 08:59:12,335 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2019-07-02 08:59:19,071 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2019-07-02 08:59:32,428 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2019-07-02 08:59:38,317 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2019-07-02 09:00:26,378 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+2019-07-02 09:00:26,388 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+2019-07-02 09:00:27,115 [4] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+2019-07-02 09:00:27,761 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job group commands.
+2019-07-02 09:00:27,761 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger group commands.
+2019-07-02 09:00:27,761 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete job commands.
+2019-07-02 09:00:27,761 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 0 delete trigger commands.
+2019-07-02 09:00:27,761 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'overwrite-existing-data' specified as: True
+2019-07-02 09:00:27,762 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'ignore-duplicates' specified as: False
+2019-07-02 09:00:27,762 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False
+2019-07-02 09:00:27,762 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 job definitions.
+2019-07-02 09:00:27,766 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed job definition: JobDetail 'ZWPlatform.TimingJob':  jobType: 'SignIn.TimingJob persistJobDataAfterExecution: True concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False
+2019-07-02 09:00:27,766 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Found 1 trigger definitions.
+2019-07-02 09:00:27,799 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Parsed trigger definition: Trigger 'ZWPlatform.TimingJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime: 
+2019-07-02 09:00:27,822 [6] DEBUG Quartz.Xml.XMLSchedulingDataProcessor - Scheduling job: ZWPlatform.TimingJob with trigger: ZWPlatform.TimingJobTrigger
+2019-07-02 09:00:27,859 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-02 09:00:27,880 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-02 09:00:27,884 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-02 09:00:27,895 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob
+2019-07-02 09:00:30,679 [7] DEBUG SignIn.TimingJob - api/App/User/Login  {"items":{"Coord":null,"IsPosUser":false,"IsBizUser":false,"IsClientUser":false,"IsMarketerUser":false,"IsPosRetailUser":false,"IsClientManager":false,"IsSalesManager":false,"IsShareLoc":true,"IdType":0,"IdCard":"430723199508172430","JobTitle":null,"IdCardImg1":"","IdCardImg2":"","IdCardImg3":"","PosMall":null,"bankType":null,"bankUserName":null,"bankAccount":null,"FaceUrl":"","Sex":1,"SexName":"先生","NickName":"。","EasemobUserName":"131175145061","Recommender":null,"IsRealNameCertification":false,"CityId":null,"CityName":null,"CityPY":null,"RegisterdOn":"0001-01-01T00:00:00","Address":null,"Weixin":null,"UserId":"dde673cb9e914f9896227f036fe1c230","FullName":"尹国金","MobilePhone":"13117514506","QrCodeUrl":"http://n.iusung.com/r/?userId=13117514506"},"error":0,"msg":"SUCCESS","total":0}
+2019-07-02 09:00:31,484 [7] DEBUG SignIn.TimingJob - api/App/User/Login  {"items":[{"OrgId":"7A388010-CB24-F5A8-2DB9-A0257CB414AD","OrgName":"杭州维码科技有限公司","IsSignBonus":false,"SignGivePoint":0.0,"IsSignLoc":true,"OrderId":"bb6c4186ea3c44268d46f7936a7e59fd","ThisTime":"2019-07-02T09:00:31.4018398+08:00","SignTime":"2019-07-02T08:30:00","ElasticityTime":60,"IsCheck":false,"IsPointSet":false,"Coord":{"Lat":0.0,"Lng":0.0},"Address":null,"Distance":null}],"error":0,"msg":"SUCCESS","total":1}
+2019-07-02 09:00:57,006 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-02 09:01:39,704 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-02 09:01:39,710 [7] DEBUG SignIn.TimingJob - api/App/User/Login  {"error":0,"msg":"SUCCESS","total":0}
+2019-07-02 09:01:42,361 [7] DEBUG SignIn.TimingJob - 2019/7/2 9:01:42签到成功
+2019-07-02 09:01:45,051 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-07-02 09:01:45,058 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-07-02 09:01:45,061 [5] DEBUG Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'ZWPlatform.TimingJob', class=SignIn.TimingJob
+2019-07-02 09:01:45,061 [5] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+2019-07-02 09:01:45,061 [10] DEBUG Quartz.Core.JobRunShell - Calling Execute on job ZWPlatform.TimingJob
+2019-07-02 09:01:45,483 [10] DEBUG SignIn.TimingJob - api/App/User/Login  {"items":{"Coord":null,"IsPosUser":false,"IsBizUser":false,"IsClientUser":false,"IsMarketerUser":false,"IsPosRetailUser":false,"IsClientManager":false,"IsSalesManager":false,"IsShareLoc":true,"IdType":0,"IdCard":"430723199508172430","JobTitle":null,"IdCardImg1":"","IdCardImg2":"","IdCardImg3":"","PosMall":null,"bankType":null,"bankUserName":null,"bankAccount":null,"FaceUrl":"","Sex":1,"SexName":"先生","NickName":"。","EasemobUserName":"131175145061","Recommender":null,"IsRealNameCertification":false,"CityId":null,"CityName":null,"CityPY":null,"RegisterdOn":"0001-01-01T00:00:00","Address":null,"Weixin":null,"UserId":"dde673cb9e914f9896227f036fe1c230","FullName":"尹国金","MobilePhone":"13117514506","QrCodeUrl":"http://n.iusung.com/r/?userId=13117514506"},"error":0,"msg":"SUCCESS","total":0}
+2019-07-02 09:01:45,655 [10] DEBUG SignIn.TimingJob - api/App/User/Login  {"items":[],"error":0,"msg":"SUCCESS","total":0}
